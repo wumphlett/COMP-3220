@@ -32,7 +32,8 @@ class Scanner
         if (File.file?(filename))
             @f = File.open(filename,'r:utf-8')
         else
-            raise StandardError, "Specified tiny file does not exist"
+            puts "Specified tiny file does not exist"
+            exit
         end
         
         # Go ahead and read in the first character in the source
