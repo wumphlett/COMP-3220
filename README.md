@@ -22,9 +22,9 @@ Principles of Programming Languages
    50.13  ┤          ││  │       │
    37.60  ┤          ││  │       │
    25.07  ┼╮╭─╮ ╭╮ ╭─╯│╭─╯       │╭─╮   ╭╮
-   12.53  ┤││ ╰─╯╰╮│  ╰╯         ╰╯ │ ╭─╯│
-    0.00  ┤╰╯     ╰╯                ╰─╯  ╰
+   12.53  ┤││ ╰─╯╰╮│  ╰╯         ╰╯ │ ╭─╯╰
+    0.00  ┤╰╯     ╰╯                ╰─╯
 
-    Chart last updated - Wed Sep 14 00:00:43 2022 UTC
+    Chart last updated - Wed Sep 14 23:59:40 2022 UTC
     
 ```
