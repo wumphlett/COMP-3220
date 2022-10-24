@@ -5,7 +5,7 @@ Principles of Programming Languages
 
 ```
 
-    Total Views per Day from 2022-08-14 to 2022-10-23
+    Total Views per Day from 2022-08-14 to 2022-10-24
 
     Repository Views
   238.00  ┼                                         ╭╮
@@ -22,9 +22,9 @@ Principles of Programming Languages
    63.47  ┤          ││  ╭╯╰╯    │           ││ │  │││
    47.60  ┤          ││  │       │          ╭╯│ │  ╰╯╰╮               ╭╮
    31.73  ┤ ╭╮  ╭╮  ╭╯│╭╮│       │      ╭╮  │ ╰╮│     │               ││  ╭╮╭╮
-   15.87  ┼╮│╰──╯╰╮╭╯ ╰╯╰╯       ╰──╮ ╭─╯╰╮╭╯  ╰╯     │               │╰╮ │││╰──╮
-    0.00  ┤╰╯     ╰╯                ╰─╯   ╰╯          ╰───────────────╯ ╰─╯╰╯   ╰
+   15.87  ┼╮│╰──╯╰╮╭╯ ╰╯╰╯       ╰──╮ ╭─╯╰╮╭╯  ╰╯     │               │╰╮ │││╰───╮
+    0.00  ┤╰╯     ╰╯                ╰─╯   ╰╯          ╰───────────────╯ ╰─╯╰╯    ╰
 
-    Chart last updated - Sun Oct 23 00:41:12 2022 UTC
+    Chart last updated - Mon Oct 24 00:46:55 2022 UTC
     
 ```
